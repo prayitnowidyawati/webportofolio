@@ -2762,7 +2762,7 @@ td:last-child {
 
 .text-pretitle {
 	font-family: var(--font-1);
-	font-size  : var(--text-md);
+	font-size  : var(--text-xxl);
 	line-height: var(--vspace-1);
 	color      : var(--color-1);
 	transform  : translate(0.2em, 0);
@@ -4747,4 +4747,8 @@ td:last-child {
 
 .contact-list li {
 	padding-left: 0;
+}
+
+.text-widya {
+	font-size: 50px;
 }
